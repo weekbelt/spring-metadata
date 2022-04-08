@@ -1,0 +1,17 @@
+{
+  "hints": [
+    {
+      "name": "outbound.def.call-type",
+      "values": [
+        {
+          "value": "warm-up",
+          "description": "warm up call"
+        },
+        {
+          "value": "dtc",
+          "description": "dtc call"
+        }
+      ]
+    }
+  ]
+}
